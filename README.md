@@ -10,15 +10,15 @@ The result with animations can be found in this [Link](https://blockbuilder.org/
 
 ### ![Pre Pregnancy - Time Allocation](https://github.com/BegonaFrigolet/Data-Visualization_D3.js/blob/main/1.%20Graphs/1.%20Pre%20Pregnancy.png)
 
-### [1st Month - Time Allocation](https://github.com/BegonaFrigolet/Data-Visualization_D3.js/blob/main/1.%20Graphs/2.%201%20Month%20Old%20Baby.png)
+### ![1st Month - Time Allocation](https://github.com/BegonaFrigolet/Data-Visualization_D3.js/blob/main/1.%20Graphs/2.%201%20Month%20Old%20Baby.png)
 
-### [2nd Month - Time Allocation](https://github.com/BegonaFrigolet/Data-Visualization_D3.js/blob/main/1.%20Graphs/3.%202%20Month%20Old%20Baby.png)
+### ![2nd Month - Time Allocation](https://github.com/BegonaFrigolet/Data-Visualization_D3.js/blob/main/1.%20Graphs/3.%202%20Month%20Old%20Baby.png)
 
-### [3rd Month - Time Allocation](https://github.com/BegonaFrigolet/Data-Visualization_D3.js/blob/main/1.%20Graphs/4.%203%20Month%20Old%20Baby.png)
+### ![3rd Month - Time Allocation](https://github.com/BegonaFrigolet/Data-Visualization_D3.js/blob/main/1.%20Graphs/4.%203%20Month%20Old%20Baby.png)
 
-### [4th Month - Time Allocation](https://github.com/BegonaFrigolet/Data-Visualization_D3.js/blob/main/1.%20Graphs/5.%204%20Month%20Old%20Baby.png)
+### ![4th Month - Time Allocation](https://github.com/BegonaFrigolet/Data-Visualization_D3.js/blob/main/1.%20Graphs/5.%204%20Month%20Old%20Baby.png)
 
-### [5-6 Months - Time Allocation](https://github.com/BegonaFrigolet/Data-Visualization_D3.js/blob/main/1.%20Graphs/6.%205-6%20Month%20Old%20Baby.png)
+### ![5-6 Months - Time Allocation](https://github.com/BegonaFrigolet/Data-Visualization_D3.js/blob/main/1.%20Graphs/6.%205-6%20Month%20Old%20Baby.png)
 
 
 This Project was done in collaboration with Mohamed Khanafer
