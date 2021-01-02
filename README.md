@@ -8,15 +8,32 @@ The data of the animation can be found in this [Link](https://gist.githubusercon
 ## Final Visualization: 
 The result with animations can be found in this [Link](https://blockbuilder.org/BegonaFrigolet/b3006c70427e0a58f2b43bc44dcc3bc1), to learn more about D3 it is recommended to go through the explanations as well as the visualizations. 
 
+### Pre Pregnancy - Time Allocation
+
 ### ![Pre Pregnancy - Time Allocation](https://github.com/BegonaFrigolet/Data-Visualization_D3.js/blob/main/1.%20Graphs/1.%20Pre%20Pregnancy.png)
+
+
+
+### 1st Month - Time Allocation
 
 ### ![1st Month - Time Allocation](https://github.com/BegonaFrigolet/Data-Visualization_D3.js/blob/main/1.%20Graphs/2.%201%20Month%20Old%20Baby.png)
 
+
+### 2nd Month - Time Allocation
+
 ### ![2nd Month - Time Allocation](https://github.com/BegonaFrigolet/Data-Visualization_D3.js/blob/main/1.%20Graphs/3.%202%20Month%20Old%20Baby.png)
+
+
+### 3rd Month - Time Allocation
 
 ### ![3rd Month - Time Allocation](https://github.com/BegonaFrigolet/Data-Visualization_D3.js/blob/main/1.%20Graphs/4.%203%20Month%20Old%20Baby.png)
 
+
+### 4th Month - Time Allocation
+
 ### ![4th Month - Time Allocation](https://github.com/BegonaFrigolet/Data-Visualization_D3.js/blob/main/1.%20Graphs/5.%204%20Month%20Old%20Baby.png)
+
+### 5 - 6 Months - Time Allocation
 
 ### ![5-6 Months - Time Allocation](https://github.com/BegonaFrigolet/Data-Visualization_D3.js/blob/main/1.%20Graphs/6.%205-6%20Month%20Old%20Baby.png)
 
